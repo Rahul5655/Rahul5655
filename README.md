@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahul5655](https://github.com/Rahul5655)
 
-- 💬 Ask me about **python,data science,gen-ai,machine learning**
+- 💬 Ask me about **Python,Data Science,Gen-Ai,Machine Learning,Deep Learning,Data analytics**
 
 - 📫 How to reach me **rahulpatil8707@gmail.com**
 
