@@ -1,3 +1,4 @@
+![logo](https://github.com/Rahul5655/Rahul5655/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner_20241114_132127_0000.png)
 <h1 align="center">Hi 👋, I'm Rahul Patil</h1>
 <h3 align="center">A passionate data Science with generative Ai</h3>
 
